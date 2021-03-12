@@ -1,0 +1,52 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+    width: 800px;
+}
+.header1{
+    text-align: center;
+    color: blue;
+}
+.header2{
+    text-align: center;
+    color: red;
+}
+h2{
+    color: darkred;
+}
+.spassida{
+    padding-left: 40px;
+    color: blue;
+}
+.raudur{
+    color: red;
+    font-weight: bold;
+}
+.bold{
+    font-weight: bold;
+}
+.raudnafn{
+    color: red;
+}
+.blattnafn{
+    color: blue;
+}
+a:link{
+    color: #00e7fa;
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: bold;
+}
+a:hover{
+    color: #1c6769;
+    font-weight: bold;
+}
+a:visited{
+    color: #6e6e6e;
+    font-weight: bold;
+}
+a:active{
+    color: #0046f5;
+    font-weight: bold;
+    font-style: italic;
+}
