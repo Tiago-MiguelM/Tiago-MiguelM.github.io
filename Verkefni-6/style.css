@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+html{scroll-behavior: smooth;}
+
+body{
+    margin: 0px;
+}
+
+.sec1{
+    height: 100vh;
+    background: linear-gradient(#372f2f,#E0D0B8);
+    font-family: 'Freckle Face', cursive;
+}
+
+.sec2{height: 100vh;
+    background: #c68b5e ;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.kassi2{
+    background: #E0D0B8;
+    padding:20px;
+    font-size: 20px;
+}
+
+.header{font-size: 60px;
+text-align: center;
+}
+
+.size{
+    font-size: 20px;
+}
+
+.kula{
+    border-radius: 100%;
+    justify-content: center;
+    text-align: center;
+    border:solid;
+    display:flex;
+    align-items: center;
+    display: grid;
+    border-width: 0px;
+    height: 85vh;
+    width: 85vh;
+    margin-left: 500px;
+    background: radial-gradient(#e08946, #ebd7b9);
+    grid-template-columns: 1fr;
+}
+
+.box{
+    background: #dfcaa0;
+    width: 150px;
+    margin-left: 350px;
+    border: solid #c19770 2px;
+}
+
+.stor{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Freckle Face', cursive;
+    background: #debb8f;
+}
+.space{
+    width: 60%;
+    margin: 0 auto;
+}
